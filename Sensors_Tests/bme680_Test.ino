@@ -71,10 +71,7 @@ void loop() {
   Serial.print(bme.gas_resistance / 1000.0);
   Serial.println(" KOhms");
 
-// It is necessary to update de SEALEVELPRESSURE_HPA to the local sea level pressure
-  //Serial.print("Approx. Altitude = ");
-  //Serial.print(bme.readAltitude(SEALEVELPRESSURE_HPA));
-  //Serial.println(" m");
+
 
   Serial.println();
   delay(2000);
