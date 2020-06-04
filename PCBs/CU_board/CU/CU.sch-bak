@@ -904,12 +904,6 @@ Connection ~ 2700 5050
 Wire Wire Line
 	2150 4250 2350 4250
 Wire Wire Line
-	5350 4050 5250 4050
-Wire Wire Line
-	5250 4050 5250 4150
-Wire Wire Line
-	5250 4150 5350 4150
-Wire Wire Line
 	2450 1650 2450 4250
 Wire Wire Line
 	2350 4450 2700 4450

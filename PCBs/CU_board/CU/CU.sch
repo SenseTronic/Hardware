@@ -918,4 +918,10 @@ Wire Wire Line
 Connection ~ 2700 4950
 Wire Wire Line
 	2700 4950 2700 5050
+Wire Wire Line
+	5350 4050 5300 4050
+Wire Wire Line
+	5300 4050 5300 4150
+Wire Wire Line
+	5300 4150 5350 4150
 $EndSCHEMATC

@@ -304,4 +304,8 @@ Text Label 3550 3150 1    50   ~ 0
 GND
 Wire Wire Line
 	3650 3150 3550 3150
+Wire Wire Line
+	6250 3900 6250 4000
+Wire Wire Line
+	6250 4000 6300 4000
 $EndSCHEMATC
